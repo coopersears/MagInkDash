@@ -1,5 +1,5 @@
 {
-  "displayTZ": "Asia/Hong_Kong",
+  "displayTZ": "United States/Detroit",
   "calendars": ["primary"],
   "numCalDaysToShow": 3,
   "owm_api_key": "ENTER YOUR OWN API KEY HERE",
